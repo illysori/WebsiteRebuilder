@@ -1,0 +1,1342 @@
+[
+  {
+    "text": "@",
+    "bbox": [
+      85,
+      36,
+      42,
+      42
+    ],
+    "confidence": 85
+  },
+  {
+    "text": "Scrape",
+    "bbox": [
+      142,
+      44,
+      89,
+      27
+    ],
+    "confidence": 92
+  },
+  {
+    "text": "This",
+    "bbox": [
+      238,
+      44,
+      52,
+      22
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Site",
+    "bbox": [
+      299,
+      44,
+      47,
+      22
+    ],
+    "confidence": 96
+  },
+  {
+    "text": ">_",
+    "bbox": [
+      450,
+      42,
+      29,
+      25
+    ],
+    "confidence": 91
+  },
+  {
+    "text": "Sandbox",
+    "bbox": [
+      487,
+      44,
+      112,
+      22
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Lessons",
+    "bbox": [
+      740,
+      44,
+      103,
+      22
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "FAQ",
+    "bbox": [
+      984,
+      44,
+      52,
+      23
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Web",
+    "bbox": [
+      601,
+      170,
+      152,
+      56
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Scraping",
+    "bbox": [
+      769,
+      171,
+      277,
+      67
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "Sandbox",
+    "bbox": [
+      1060,
+      170,
+      277,
+      56
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Countries",
+    "bbox": [
+      602,
+      326,
+      210,
+      38
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "of",
+    "bbox": [
+      823,
+      327,
+      44,
+      37
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "the",
+    "bbox": [
+      876,
+      326,
+      70,
+      38
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "World:",
+    "bbox": [
+      956,
+      326,
+      148,
+      38
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "A",
+    "bbox": [
+      1114,
+      327,
+      35,
+      36
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "Simple",
+    "bbox": [
+      1158,
+      326,
+      144,
+      46
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Example",
+    "bbox": [
+      1315,
+      326,
+      181,
+      46
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "A",
+    "bbox": [
+      600,
+      406,
+      28,
+      31
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "single",
+    "bbox": [
+      640,
+      406,
+      102,
+      40
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "page",
+    "bbox": [
+      756,
+      414,
+      89,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "that",
+    "bbox": [
+      857,
+      406,
+      69,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "lists",
+    "bbox": [
+      940,
+      406,
+      66,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "information",
+    "bbox": [
+      1020,
+      406,
+      197,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "about",
+    "bbox": [
+      1231,
+      406,
+      103,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "all",
+    "bbox": [
+      1347,
+      406,
+      35,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "the",
+    "bbox": [
+      1395,
+      406,
+      57,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "countries",
+    "bbox": [
+      1464,
+      406,
+      165,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "in",
+    "bbox": [
+      1643,
+      406,
+      27,
+      31
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "the",
+    "bbox": [
+      601,
+      464,
+      56,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "world.",
+    "bbox": [
+      669,
+      464,
+      108,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Good",
+    "bbox": [
+      793,
+      463,
+      100,
+      33
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "for",
+    "bbox": [
+      906,
+      464,
+      48,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "those",
+    "bbox": [
+      965,
+      464,
+      100,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "just",
+    "bbox": [
+      1075,
+      464,
+      65,
+      39
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "get",
+    "bbox": [
+      1152,
+      466,
+      57,
+      38
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "started",
+    "bbox": [
+      1222,
+      464,
+      123,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "with",
+    "bbox": [
+      1358,
+      464,
+      73,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "web",
+    "bbox": [
+      1444,
+      464,
+      76,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "scraping.",
+    "bbox": [
+      1534,
+      464,
+      162,
+      40
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Hockey",
+    "bbox": [
+      604,
+      599,
+      160,
+      46
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Teams:",
+    "bbox": [
+      772,
+      600,
+      147,
+      37
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Forms,",
+    "bbox": [
+      933,
+      600,
+      141,
+      43
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Searching",
+    "bbox": [
+      1084,
+      599,
+      212,
+      46
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "and",
+    "bbox": [
+      1306,
+      599,
+      76,
+      38
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Pagination",
+    "bbox": [
+      1397,
+      599,
+      225,
+      46
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "Browse",
+    "bbox": [
+      603,
+      678,
+      135,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "through",
+    "bbox": [
+      749,
+      678,
+      138,
+      40
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "a",
+    "bbox": [
+      901,
+      686,
+      22,
+      24
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "database",
+    "bbox": [
+      935,
+      678,
+      167,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "of",
+    "bbox": [
+      1114,
+      678,
+      35,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "NHL",
+    "bbox": [
+      1162,
+      678,
+      80,
+      31
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "team",
+    "bbox": [
+      1253,
+      680,
+      89,
+      30
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "stats",
+    "bbox": [
+      1356,
+      680,
+      86,
+      30
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "since",
+    "bbox": [
+      1455,
+      678,
+      93,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "1990.",
+    "bbox": [
+      1564,
+      678,
+      98,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Practice",
+    "bbox": [
+      603,
+      737,
+      145,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "building",
+    "bbox": [
+      762,
+      737,
+      136,
+      40
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "a",
+    "bbox": [
+      912,
+      745,
+      22,
+      24
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "scraper",
+    "bbox": [
+      946,
+      745,
+      136,
+      31
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "that",
+    "bbox": [
+      1092,
+      737,
+      69,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "handles",
+    "bbox": [
+      1175,
+      737,
+      139,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "common",
+    "bbox": [
+      1327,
+      745,
+      159,
+      24
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "website",
+    "bbox": [
+      1498,
+      737,
+      140,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "interface",
+    "bbox": [
+      603,
+      796,
+      152,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "components.",
+    "bbox": [
+      767,
+      798,
+      235,
+      37
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Oscar",
+    "bbox": [
+      602,
+      931,
+      126,
+      37
+    ],
+    "confidence": 89
+  },
+  {
+    "text": "Winning",
+    "bbox": [
+      737,
+      930,
+      183,
+      46
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Films:",
+    "bbox": [
+      932,
+      930,
+      123,
+      38
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "AJAX",
+    "bbox": [
+      1065,
+      931,
+      123,
+      37
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "and",
+    "bbox": [
+      1198,
+      930,
+      76,
+      38
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "Javascript",
+    "bbox": [
+      1286,
+      930,
+      218,
+      46
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "Click",
+    "bbox": [
+      602,
+      1008,
+      88,
+      33
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "through",
+    "bbox": [
+      700,
+      1009,
+      138,
+      40
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "a",
+    "bbox": [
+      852,
+      1017,
+      22,
+      24
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "bunch",
+    "bbox": [
+      887,
+      1009,
+      110,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "of",
+    "bbox": [
+      1011,
+      1009,
+      35,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "great",
+    "bbox": [
+      1057,
+      1011,
+      91,
+      38
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "films.",
+    "bbox": [
+      1159,
+      1009,
+      91,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "Learn",
+    "bbox": [
+      1267,
+      1009,
+      99,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "how",
+    "bbox": [
+      1381,
+      1009,
+      75,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "content",
+    "bbox": [
+      1468,
+      1011,
+      136,
+      30
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "is",
+    "bbox": [
+      1618,
+      1009,
+      26,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "added",
+    "bbox": [
+      602,
+      1068,
+      113,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "to",
+    "bbox": [
+      728,
+      1070,
+      36,
+      30
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "the",
+    "bbox": [
+      776,
+      1068,
+      56,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "page",
+    "bbox": [
+      846,
+      1076,
+      89,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "asynchronously",
+    "bbox": [
+      948,
+      1068,
+      280,
+      39
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "with",
+    "bbox": [
+      1239,
+      1068,
+      72,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Javascript",
+    "bbox": [
+      1325,
+      1068,
+      183,
+      39
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "and",
+    "bbox": [
+      1520,
+      1068,
+      67,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "how",
+    "bbox": [
+      1602,
+      1068,
+      75,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "you",
+    "bbox": [
+      600,
+      1135,
+      65,
+      31
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "can",
+    "bbox": [
+      679,
+      1135,
+      64,
+      24
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "scrape",
+    "bbox": [
+      756,
+      1135,
+      122,
+      31
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "it.",
+    "bbox": [
+      892,
+      1127,
+      27,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Turtles",
+    "bbox": [
+      601,
+      1261,
+      149,
+      38
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "All",
+    "bbox": [
+      759,
+      1261,
+      59,
+      37
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "the",
+    "bbox": [
+      830,
+      1261,
+      70,
+      38
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "Way",
+    "bbox": [
+      910,
+      1262,
+      98,
+      45
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Down:",
+    "bbox": [
+      1020,
+      1262,
+      137,
+      37
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Frames",
+    "bbox": [
+      1170,
+      1262,
+      153,
+      37
+    ],
+    "confidence": 93
+  },
+  {
+    "text": "&",
+    "bbox": [
+      1334,
+      1262,
+      35,
+      37
+    ],
+    "confidence": 93
+  },
+  {
+    "text": "iFrames",
+    "bbox": [
+      1379,
+      1261,
+      167,
+      38
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "Some",
+    "bbox": [
+      602,
+      1339,
+      105,
+      33
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "older",
+    "bbox": [
+      720,
+      1340,
+      90,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "sites",
+    "bbox": [
+      822,
+      1340,
+      81,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "might",
+    "bbox": [
+      917,
+      1340,
+      99,
+      40
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "still",
+    "bbox": [
+      1029,
+      1340,
+      53,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "use",
+    "bbox": [
+      1097,
+      1348,
+      63,
+      24
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "frames",
+    "bbox": [
+      1172,
+      1340,
+      122,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "to",
+    "bbox": [
+      1306,
+      1342,
+      36,
+      30
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "break",
+    "bbox": [
+      1356,
+      1340,
+      100,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "up",
+    "bbox": [
+      1468,
+      1348,
+      45,
+      31
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "thier",
+    "bbox": [
+      1525,
+      1340,
+      79,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "pages.",
+    "bbox": [
+      603,
+      1407,
+      118,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Modern",
+    "bbox": [
+      738,
+      1399,
+      136,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "ones",
+    "bbox": [
+      888,
+      1407,
+      87,
+      24
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "might",
+    "bbox": [
+      989,
+      1399,
+      99,
+      40
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "be",
+    "bbox": [
+      1102,
+      1399,
+      43,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "using",
+    "bbox": [
+      1159,
+      1399,
+      93,
+      40
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "iFrames",
+    "bbox": [
+      1268,
+      1399,
+      139,
+      32
+    ],
+    "confidence": 95
+  },
+  {
+    "text": "to",
+    "bbox": [
+      1419,
+      1401,
+      36,
+      30
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "expose",
+    "bbox": [
+      1468,
+      1407,
+      130,
+      31
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "data.",
+    "bbox": [
+      1611,
+      1399,
+      88,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "Learn",
+    "bbox": [
+      603,
+      1458,
+      99,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "about",
+    "bbox": [
+      716,
+      1458,
+      103,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "turtles",
+    "bbox": [
+      831,
+      1458,
+      110,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "as",
+    "bbox": [
+      954,
+      1466,
+      41,
+      24
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "you",
+    "bbox": [
+      1006,
+      1466,
+      65,
+      31
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "scrape",
+    "bbox": [
+      1085,
+      1466,
+      122,
+      31
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "content",
+    "bbox": [
+      1219,
+      1460,
+      136,
+      30
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "inside",
+    "bbox": [
+      1369,
+      1458,
+      102,
+      32
+    ],
+    "confidence": 96
+  },
+  {
+    "text": "frames.",
+    "bbox": [
+      1483,
+      1458,
+      131,
+      32
+    ],
+    "confidence": 96
+  }
+]
