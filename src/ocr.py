@@ -8,7 +8,7 @@ from PIL import Image
 # pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # === Step 1: Load the image ===
-image_path = "input/screenshot.png"  # adjust if needed
+image_path = "input/screenshot.png"
 img = cv2.imread(image_path)
 
 # === Step 2: Convert to grayscale and preprocess ===
